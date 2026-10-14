@@ -1,7 +1,11 @@
-# DESIGN.md — DavaoCycle System Design & Branding Tokens
+# DavaoCycle System Design 
 
 This document specifies the design system, visual identity, and user interface guidelines for **DavaoCycle**, a bike-sharing and micro-mobility rental platform based in Davao City. 
 
+## Application Screenshot
+
+
+<img width="1200" height="541" alt="download" src="https://github.com/user-attachments/assets/a5fac705-54a3-418b-865f-59f341d22ead" />
 ---
 
 ## 1. Brand Identity & Strategy
@@ -58,7 +62,4 @@ This document specifies the design system, visual identity, and user interface g
   * Desktop: `> 1024px` (Admin panel for managing fleets, bike stations, and user accounts).
 
 
-## Application Screenshot
 
-
-<img width="1200" height="541" alt="download" src="https://github.com/user-attachments/assets/a5fac705-54a3-418b-865f-59f341d22ead" />
