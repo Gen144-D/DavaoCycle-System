@@ -1,4 +1,4 @@
-# DavaoCycle System Design 
+# DavaoCycle System 
 
 This document specifies the design system, visual identity, and user interface guidelines for **DavaoCycle**, a bike-sharing and micro-mobility rental platform based in Davao City. 
 
